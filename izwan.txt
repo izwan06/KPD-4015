@@ -1,1 +1,7 @@
-apa hg
+apa hg 
+
+    a a a
+   a     a 
+  a a a a a
+ a         a 
+a           a
